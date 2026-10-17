@@ -43,6 +43,8 @@
 
 </div>
 
+<br>
+
 **Also exploring:** REST APIs · Sentence Transformers · FAISS · RAG pipelines · AI agents · LangGraph
 
 ---
@@ -63,17 +65,9 @@ A concept for a workspace that helps teachers organize academic work and interac
 - Focused on making everyday academic tasks easier to manage.
 - **Tech:** React, JavaScript, CSS; AI integration in development
 
-### 3. Weather App
-A responsive weather application that retrieves weather information from an API.
-
-- Displays weather data with a dynamic, responsive interface.
-- **Tech:** React, Material UI, OpenWeatherMap API
-
-> **Project links:** Replace the placeholders below with the actual repository URLs before publishing.
->
+> **Project links:** 
 > - [CampusNear](https://github.com/prdxcodes/CampusNear)
 > - [Teacher Co-Worker](https://github.com/vikrampal12345/TCO-PRODUCTION)
-> - [Weather App](YOUR_WEATHER_APP_REPOSITORY_URL)
 
 ---
 
