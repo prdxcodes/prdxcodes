@@ -51,8 +51,6 @@
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 ### 1. CampusNear — College Services Discovery
 
 A college-focused platform to discover nearby **PGs, hostels, cafés, messes, and laundry services**.
