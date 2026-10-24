@@ -51,19 +51,33 @@
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 ### 1. CampusNear — College Services Discovery
+
 A college-focused platform to discover nearby **PGs, hostels, cafés, messes, and laundry services**.
 
-- Category-based listings with pricing, contact details, photos, and location information.
-- Built around a college-aware discovery experience and map integration.
-- **Tech:** MongoDB, Express.js, Node.js, EJS, JavaScript, Leaflet / OpenStreetMap
+* Category-based listings with pricing, contact details, photos, and location information.
+* Built around a college-aware discovery experience and map integration.
+* **Tech:** MongoDB, Express.js, Node.js, EJS, JavaScript, Leaflet / OpenStreetMap
 
-### 2. Teacher Co-Worker — AI Assistant for Teachers
+### 2. FreelancePilot AI — AI-Powered Freelance Assistant
+
+An AI-powered platform designed to help freelancers discover relevant projects, evaluate opportunities, and generate personalized proposals.
+
+* Integrates with the Freelancer.com API for project discovery and bid submission.
+* Uses AI to generate tailored proposal drafts based on project requirements and user skills.
+* Includes project matching, proposal editing, approval workflows, and submission status tracking.
+* Built with a focus on human-reviewed proposals and controlled bid submission.
+* **Tech:** React, Vite, JavaScript, Python, FastAPI, SQLAlchemy, PostgreSQL, Supabase, Google Gemini AI, Freelancer.com API
+
+### 3. Teacher Co-Worker — AI Assistant for Teachers
+
 A concept for a workspace that helps teachers organize academic work and interact with an AI assistant.
 
-- Workspace-style UI with sidebar, chat area, and message input.
-- Focused on making everyday academic tasks easier to manage.
-- **Tech:** React, JavaScript, CSS; AI integration in development
+* Workspace-style UI with sidebar, chat area, and message input.
+* Focused on making everyday academic tasks easier to manage.
+* **Tech:** React, JavaScript, CSS; AI integration in development
 
 > **Project links:** 
 > - [CampusNear](https://github.com/prdxcodes/CampusNear)
